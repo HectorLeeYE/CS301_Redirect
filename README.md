@@ -1,7 +1,4 @@
 # CS301_Redirect
-
-My personal contribution was OTP frontend and backend (implementation of login, generation, verification, error logging and scenario handling), along with making a publicly available JWKS Endpoint.
-
 My personal contribution was OTP frontend and backend (implementation of login, generation, verification, error logging and scenario handling), along with making a publicly available JWKS Endpoint.
 
 The original is hard to make public, so there'll only be a video demo.
